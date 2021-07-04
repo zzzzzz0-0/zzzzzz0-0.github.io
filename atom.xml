@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>知行合一</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-07-03T14:35:07.904Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>zzzzzz0_0</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/07/03/2021-07-03-%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2021/07/03/2021-07-03-%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-07-03T14:35:07.904Z</published>
+    <updated>2021-07-03T14:35:07.904Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>a.md</title>
+    <link href="http://example.com/2021/07/03/a-md/"/>
+    <id>http://example.com/2021/07/03/a-md/</id>
+    <published>2021-07-03T14:30:51.000Z</published>
+    <updated>2021-07-03T14:31:35.733Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;hello&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
